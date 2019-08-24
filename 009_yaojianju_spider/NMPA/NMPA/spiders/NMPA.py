@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+@author: Jock
+"""
+
+
 import time
 import random
 import json
