@@ -90,9 +90,9 @@ COOKIES_ENABLED = False
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # 连接MySQL数据库
-MYSQL_HOST = '127.0.0.1'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = '0306MySQL*'
+MYSQL_HOST = 'your host'
+MYSQL_USER = 'your user name'
+MYSQL_PASSWORD = 'your password'
 MYSQL_PORT = 3306
-MYSQL_DATABASE = 'other'
+MYSQL_DATABASE = 'your database'
 MYSQL_CHARSET = 'utf8mb4'
